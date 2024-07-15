@@ -12,7 +12,7 @@ The dataset used in this project is available publicly on Kaggle: https://www.ka
 Please note that you may need to create a free Kaggle account to access the dataset.
 
 Task List:
- Import libraries and load data
- Clean and preprocess data
- Conduct exploratory data analysis
- Draw conclusions and insights
+ 1. Import libraries and load data
+ 2. Clean and preprocess data
+ 3. Conduct exploratory data analysis
+ 4. Draw conclusions and insights
